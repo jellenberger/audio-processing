@@ -1,2 +1,4 @@
 # audio-processing
-Experimentation with audio processing in Python
+Experimenting with audio processing in Python
+
+Messy. It's possible that not all the deps are actually used.

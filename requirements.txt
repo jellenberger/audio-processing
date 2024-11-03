@@ -1,6 +1,8 @@
-jupyterlab
-matplotlib
+#jupyterlab
+#matplotlib
+numpy
 librosa
 scipy
-rnnoise-wrapper @ git+https://github.com/Desklop/RNNoise_Wrapper
-PyAudio
+#rnnoise-wrapper @ git+https://github.com/Desklop/RNNoise_Wrapper
+#PyAudio
+soundfile
